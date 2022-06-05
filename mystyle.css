@@ -1,0 +1,23 @@
+body{
+	background-color:gray;
+}
+a:link{
+	color:green;
+}
+a:visited{
+	color:purple;
+}
+span{
+	color:blue;
+}
+span:hover{
+	background-color:yellow;
+}
+h1{
+	background-color:pink;
+	color:#16063160;
+	font-family:"DFKai-sb";
+}
+th{
+	font-family:"DFKai-sb";
+}
